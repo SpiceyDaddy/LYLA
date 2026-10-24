@@ -1,0 +1,1 @@
+"""Local LYLA dashboard assets."""
