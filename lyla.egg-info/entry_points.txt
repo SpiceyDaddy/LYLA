@@ -1,0 +1,4 @@
+[console_scripts]
+lyla = src.web_app:main
+lyla-cli = lyla_cli:main
+lyla-desktop = src.web_app:main

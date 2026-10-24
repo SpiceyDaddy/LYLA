@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: lyla
+Version: 1.0
+Requires-Dist: llama-cpp-python==0.3.36
+Requires-Dist: huggingface-hub
+Requires-Dist: pyttsx3
+Dynamic: requires-dist
